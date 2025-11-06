@@ -35,7 +35,7 @@
   |Due for Promotion	|72	|4.9%
 
 ## Page 2 – Promotion and Retrenchment Analysis
-![Dashboard Action Page](/HR%20Data/PICTURES/details.png)
+![Dashboard Action Page](/HR%20Data/PICTURES/DETAILS.png)
 ## 🧠 4. Key Findings
 **Promotion Status**
 
